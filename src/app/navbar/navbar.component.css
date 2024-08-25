@@ -1,0 +1,6 @@
+.navbar-wrapper {
+  width: 100%;
+  height: clamp(10px, 1rem, 25%);
+  background-color: var(--accent-color);
+  color: var(--font-color);
+}
